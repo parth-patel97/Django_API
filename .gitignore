@@ -1,0 +1,21 @@
+
+# Mac/OSX
+.DS_Store
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Serverless 
+.serverless
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
